@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parallaxwave" alt="parallaxwave" /></a> </p>
 
-- 🔭 I’m currently working on [a website](https://teams.microsoft.com/l/meetup-join/19%3ae7fa272108a846a29f74f21e3e7889c8%40thread.tacv2/1623223025263?context=%7b%22Tid%22%3a%2215025a36-9c10-4300-8462-4fe1970f0a64%22%2c%22Oid%22%3a%22ceb662f2-6f54-4779-9c25-3d504c8ee6dd%22%7d)
+- 🔭 I’m currently working on [a website](https://github.com/ParallaxWave/aether-site)
 
 - 🌱 I’m currently learning **Spring-boot, SASS**
 
