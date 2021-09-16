@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a website](https://github.com/ParallaxWave/aether-site)
 
-- 🌱 I’m currently learning **Spring-boot, SASS**
+- 🌱 I’m currently learning **NestJS, Preact**
 
 - 👯 I’m looking to collaborate on **web development and discord-bot development**
 
