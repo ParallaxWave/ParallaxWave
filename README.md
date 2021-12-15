@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parallaxwave" alt="parallaxwave" /></a> </p>
 
-- 🔭 I’m currently working on [a website](https://github.com/ParallaxWave/aether-site)
+<!-- - 🔭 I’m currently working on [a website](https://github.com/ParallaxWave/aether-site) -->
 
-- 🌱 I’m currently learning **NestJS, Preact**
+- 🌱 I’m currently learning **NestJS, Vue 3**
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 💬 Ask me about **Front-End Javascript Frameworks, Discord botdev, GNU/Linux Ricing**
+<!-- - 💬 Ask me about **Front-End Javascript Frameworks, Discord botdev, GNU/Linux Ricing** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
