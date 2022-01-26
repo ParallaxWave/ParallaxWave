@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [a website](https://github.com/ParallaxWave/aether-site) -->
 
-- 🌱 I’m currently learning **NestJS, Vue 3**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **web development**
 
